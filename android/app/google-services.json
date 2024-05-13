@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694069926080",
+    "firebase_url": "https://fir-1-e5261-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-1-e5261",
+    "storage_bucket": "fir-1-e5261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694069926080:android:54231460c76e7c3126b525",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694069926080-09baq2vp7uno2jd5pur32f3siusv85gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_app",
+            "certificate_hash": "e7f2a7932cef740c82b49ba37a0acbda6a357f6e"
+          }
+        },
+        {
+          "client_id": "694069926080-r5crcoshaotnhmausala7q27k8rkj8mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCOhAfcOJuJfFJ8I-_xPPI3VJO8Mom68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113374118057042028427",
+              "client_type": 3
+            },
+            {
+              "client_id": "694069926080-jq33m9qfrogltfm2ebvj6e927u1p34t8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrblab.travelhourapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

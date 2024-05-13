@@ -1,0 +1,147 @@
+{
+    
+    "welcome message" : "สำรวจทุกสถานที่่ที่มีชื่อเสียงในนครปฐมและค้นหาร้านอาหารใกล้เคียงด้วยวิธีที่ง่ายที่สุด บล็อกท่องเที่ยว และอื่นๆ...",
+    "welcome to" : "ยินดีต้อนรับสู่",
+
+    "intro-title1" : "ไม่ว่าคุณจะอยู่ที่ไหน",
+    "intro-title2" : "สำรวจสิ่งของใกล้เคียง",
+    "intro-title3" : "คู่มือการเดินทางแบบเรียลไทม์",
+    "intro-description1" : "เข้าถึงข้อมูลสำคัญเกี่ยวกับจุดหมายปลายทางของคุณก่อนและระหว่างการเดินทาง...",
+    "intro-description2" : "สำรวจร้านอาหารใกล้เคียงใกล้ทุกจุดท่องเที่ยวด้วยวิธีที่ง่ายที่สุด...",
+    "intro-description3" : "มีเส้นทาง แหล่งท่องเที่ยวและอื่นๆ เกี่ยวกับการเดินทางได้ในที่เดียว...",
+    "get started" : "เริ่ม",
+
+    "explore country" : "สำรวจนครปฐม",
+    "search places" : "ค้นหาสถานที่",
+    "popular places" : "สถานที่ยอดนิยม",
+    "special state-1 places" : "สถานที่ วัดไร่ขิง",
+    "special state-2 places" : "สถานที่ ตลาดน้ำดอนหวาย",
+    "recently added" : "เพิ่มมาเร็วๆนี้",
+    "recommended places" : "สถานที่แนะนำ",
+
+    "people like this" : "สิ่งที่ผู้คนชื่นชอบ",
+    "todo" : "กิจกรรมที่ทำ",
+    "you may also like" : "สิ่งที่คุณอาจชอบ",
+    "travel guide" : "คู่มือการเดินทาง",
+    "nearby hotels" : "โรงแรมใกล้เคียง",
+    "nearby restaurants" : "ร้านอาหารใกล้เคียง",
+    "steps" : "ลำดับการเดินทาง",
+    "estimated cost = " : "Estimated Cost = ",
+    "distance = " : "Distance = ",
+    "no hotels found" : "No Hotels Found",
+    "no restaurants found" : "ไม่พบร้านอาหาร",
+    "we didn't find any nearby hotels in this area" : "เราไม่พบโรงแรมในบริเวณใกล้เคียงในบริเวณนี้",
+    "we didn't find any nearby restaurants in this area" : "เราไม่พบร้านอาหารใกล้เคียงในบริเวณนี้",
+    "user reviews" : "รีวิวจากผู้ใช้",
+
+
+    "write a review" : "แสดงความคิดเห็น",
+    "no internet" : "ไม่มีอินเทอร์เน็ต!",
+    "no comments found" : "ไม่พบความคิดเห็น",
+    "be the first to comment" : "เป็นคนแรกที่แสดงความคิดเห็น",
+
+    "recently added places" : "สถานที่ที่เพิ่มล่าสุด",
+
+
+    "search & explore" : "ค้นหาและสำรวจสถานที่",
+    "recent searchs" : "การค้นหาล่าสุด",
+    "search for places" : "ค้นหาสถานที่",
+    "search-description" :  "คุณยังไม่ได้ค้นหารายการใด ๆ\n ลองเลย - เราจะช่วยคุณ!",
+    "we have found" : "เราได้ค้นพบแล้ว",
+    "no places found" : "ไม่พบสถานที่",
+    "try again" : "ลองอีกครั้ง!",
+
+
+
+    "states" : "สถานที่ท่องเที่ยว",
+    "blogs" : "บล็อก",
+
+
+    "bookmarks" : "บุ๊กมาร์ก",
+    "saved places" : "บันทึกสถานที่",
+    "saved blogs" : "บันทึกบล็อก",
+    "sign in first" : "ลงชื่อเข้าใช้ก่อน",
+    "sign in to save your favourite places here" : "ลงชื่อเข้าใช้เพื่อบันทึกสถานที่โปรดของคุณที่นี่",
+    "sign in to save your favourite blogs here" : "ลงชื่อเข้าใช้เพื่อบันทึกบล็อกโปรดของคุณที่นี่",
+    "no blogs found" : "ไม่พบบล็อก",
+    "save your favourite places here" : "บันทึกสถานที่โปรดของคุณที่นี่",
+    "save your favourite blogs here" : "บันทึกบล็อกโปรดของคุณที่นี่",
+
+
+
+    "skip" : "ข้าม",
+    "check your internet connection!" : "ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ!",
+    "something is wrong. please try again." : "บางสิ่งบางอย่างที่ไม่ถูกต้อง. กรุณาลองอีกครั้ง.",
+
+
+    "sign in" : "เข้าสู่ระบบ",
+    "cancel" : "ยกเลิก",
+    
+    "no sign in title" : "ลงชื่อเข้าใช้ก่อนเพื่อเข้าถึงคุณลักษณะนี้",
+    "no sign in subtitle" : "คุณยังไม่ได้ลงชื่อเข้าใช้ โปรดลงชื่อเข้าใช้เพื่อปลดล็อกคุณสมบัตินี้",
+
+    
+    
+    "comments" : "ความคิดเห็น",
+    "write a comment" : "เขียนความคิดเห็น", 
+
+
+    
+    "no content" : "ไม่พบเนื้อหา",
+    "delete?" : "ลบ?",
+    "delete from database?" : "ต้องการลบรายการนี้หรือไม่",
+    "flag this comment" : "ตั้งค่าสถานะความคิดเห็นนี้",
+    "unflag this comment" : "เลิกตั้งค่าสถานะความคิดเห็นนี้",
+    "report" : "รายงาน",
+    "delete" : "ลบ",
+    "report-info" : "รายงานของคุณถูกส่งไปยังผู้ดูแลระบบเรียบร้อยแล้ว",
+    "report-info1" : "ขอบคุณสำหรับรายงานของคุณ เราจะตอบกลับภายใน 24 ชั่วโมง",
+    "report-guest" : "จำเป็นต้องลงชื่อเข้าใช้!",
+    "report-guest1" : "คุณต้องลงชื่อเข้าใช้เพื่อรายงานความคิดเห็นใดๆ",
+    "comment flagged" : "ความคิดเห็นนี้ถูกตั้งค่าสถานะ!",
+
+
+    "notifications" : "การแจ้งเตือน",
+    "notification details" : "รายละเอียดการแจ้งเตือน",
+
+
+    "profile" : "โปรไฟล์",
+    "general setting" : "การตั้งค่าทั่วไป",
+    "login" : "เข้าสู่ระบบ",
+    "get notifications" : "รับการแจ้งเตือน",
+    "contact us" : "ติดต่อเรา",
+    "rate this app" : "ให้คะแนนแอปนี้",
+    "licence" : "ใบอนุญาต",
+    "privacy policy" : "นโยบายความเป็นส่วนตัว",
+    "about us" : "เกี่ยวกับเรา",
+    "logout" : "ออกจากระบบ",
+    "edit profile" : "แก้ไขโปรไฟล์",
+    "update profile" : "อัปเดตโปรไฟล์",
+    "updated successfully" : "อัปเดตเรียบร้อยแล้ว",
+    "enter new name" : "ป้อนชื่อใหม่",
+
+    "logout title" : "คุณต้องการออกจากระบบจากแอพจริง ๆ หรือไม่?",
+    "yes" : "ใช่",
+    "no" : "ไม่",
+
+    "language" : "ภาษา",
+    "select language" : "เลือกภาษา",
+
+    "buy now" : "ซื้อแอพนี้",
+    "buy now subtitle" : "ซื้อซอร์สโค้ดแบบเต็มที่นี่และสร้างแอปสำหรับประเทศของคุณ",
+
+    
+    "facebook": "Facebook Page",
+    "youtube": "Youtube Channel",
+    "no notifications": "ไม่พบการแจ้งเตือน",
+    "no blogs": "ไม่พบบล็อก",
+
+    "security": "ความปลอดภัย",
+    "delete-user-data": "ลบข้อมูลและบัญชีของฉัน",
+    "account-delete-title": "คุณต้องการลบข้อมูลของคุณจริงหรือ",
+    "account-delete-subtitle": "ข้อมูลบัญชีของคุณ เช่น ข้อมูลโปรไฟล์ บุ๊กมาร์ก ฯลฯ จะถูกลบออกจากฐานข้อมูลแอพ และคุณจะต้องลงทะเบียนอีกครั้งในแอพเพื่อดำเนินการต่อ",
+    "account-delete-confirm": "ใช่ ลบบัญชีของฉัน"
+
+
+
+}

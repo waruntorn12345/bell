@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "har-validator": "4.2.1",
+    "install": "^0.13.0",
+    "npm": "^9.5.1",
+    "or": "^0.2.0"
+  }
+ 
+}

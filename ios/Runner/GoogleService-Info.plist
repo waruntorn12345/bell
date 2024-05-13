@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>694069926080-jq33m9qfrogltfm2ebvj6e927u1p34t8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.694069926080-jq33m9qfrogltfm2ebvj6e927u1p34t8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>694069926080-09baq2vp7uno2jd5pur32f3siusv85gh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPa0GZN3EkZWaigMDp6ANwYXaO0HqqdjY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>694069926080</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mrblab.travelhourapp</string>
+	<key>PROJECT_ID</key>
+	<string>fir-1-e5261</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-1-e5261.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:694069926080:ios:2c420bd2541922fd26b525</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-1-e5261-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
